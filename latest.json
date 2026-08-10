@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "file": "paceattack-1.0.1.bin",
+  "file": "paceattack-1.0.0.bin",
   "notes": "Test release - checking the update prompt appears.",
   "model": "PA_PRO"
 }
